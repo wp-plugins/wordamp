@@ -44,7 +44,7 @@ WordAMP will add a display in your post that will strengthen your topic with rel
 
 == Screenshots ==
 
-1. A sample of WordAMP using the subject 'apples'. wordamp.jpg.
+1. A sample of WordAMP using the subject 'apples.'
 
 == Changelog ==
 
