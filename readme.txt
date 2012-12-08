@@ -14,12 +14,14 @@ WordAMP is a plugin that will strengthen your posts with relevant text and image
 Entertaining Stories That Attract Visitors
 
 * Valuable knowledge to strengthen your topic, increase readership, and encourage visitors to stay on your website.
-* Textual content powered by Wikipedia®, a free, web-based, collaborative, multilingual encyclopedia.
+* Textual content powered by Wikipedia, a free, web-based, collaborative, multilingual encyclopedia.
 
 Safe Search Images to Liven Up Your Page
 
 * Liven up your page with a vivid gallery of safe search images that illustrate your topic.
-* Visual content powered by Bing™, a web search engine (advertised as a “decision engine”) from Microsoft.
+* Visual content powered by Bing, a web search engine (advertised as a "decision engine") from Microsoft.
+
+See http://www.wordamp.com/ for more information.
 
 == Installation ==
 
