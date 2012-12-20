@@ -3,7 +3,7 @@ Contributors: axiom82
 Tags: widget, Post, plugin, post, images, image, bing, wikipedia, shortcode, free, javascript
 Requires at least: 3.0.1
 Tested up to: 3.4.2
-Stable tag: 1.0
+Stable tag: 1.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -49,6 +49,9 @@ WordAMP will add a display in your post that will strengthen your topic with rel
 1. A sample of WordAMP using the subject 'apples.'
 
 == Changelog ==
+
+= 1.0.1 =
+* Fixed caching issue which had caused the wrong media to display when the widget operated in "keyword detection mode" on multiple pages in a single domain.
 
 = 1.0 =
 * WordAMP reaches Wordpress.
