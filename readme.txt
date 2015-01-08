@@ -49,7 +49,7 @@ WordAMP will add a display in your post that will strengthen your topic with rel
 1. A sample of WordAMP using the subject 'apples.'
 
 == Changelog ==
-
+ 
 = 1.0.1 =
 * Fixed caching issue which had caused the wrong media to display when the widget operated in "keyword detection mode" on multiple pages in a single domain.
 
